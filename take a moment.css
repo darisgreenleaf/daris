@@ -1,0 +1,78 @@
+
+
+
+/* navigation bar*/
+.topnav {
+ overflow: hidden;
+ background-color: #BACB95;
+}
+
+.topnav a  {
+  float: left;
+ color: #f2f2f2;
+ text-align: left;
+ padding: 50px 50px 50px 50px
+
+}
+
+
+.topnav a:hover {
+ background-color: #F6E6CA;
+ color: #E985A2;
+}
+
+
+.topnav a.active {
+ background-color: #BACB95;
+ color: #ffffff;
+}
+
+/*images*/
+.images {
+  display: flex;
+  flex-wrap: wrap;
+ text-align: center;
+ padding: 50px;
+ margin: 50px;
+}
+.images > div {
+  width: 50%;
+ 
+}
+.bath {
+  padding: 70px;
+}
+.bike {
+  padding: 70px;
+}
+.book {
+  padding: 70px;
+}
+.cat {
+  padding: 70px;
+}
+.coffee {
+  padding: 70px;
+}
+.gramophone {
+  padding: 70px;
+}
+.mask {
+  padding: 70px;
+}
+.paint {
+  padding: 70px;
+}
+.gramophone {
+  padding: 70px;
+}
+.tree {
+  padding: 70px;
+}
+.poem {
+  text-align: center;
+  margin: 400px;
+  margin-top: 300px;
+ 
+  font-size:50px;
+}
