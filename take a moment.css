@@ -90,8 +90,8 @@
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 200px;
-  background-color: #BACB95;
-   height: 400px;
+  
+   height: 500px;
   font-size: 20px;
   color: black;
   text-align: center;
