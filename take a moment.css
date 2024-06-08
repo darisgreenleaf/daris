@@ -90,13 +90,13 @@
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 200px;
-  
-   height: 500px;
+ background-color: #BACB95;
+   height: 610px;
   font-size: 20px;
   color: black;
   text-align: center;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 10px 0;
   
    /* Position the tooltip */
    position: absolute;
